@@ -20,7 +20,7 @@
           "scm_ref": "jdk8u332-b09",
           "openjdk_scm_ref": "jdk8u332-b09",
           "distribution": "zulu",
-          "aqavit_results_link": "https://raw.githubusercontent.com/SashaPepin/azul-adoptium/main/aqa-test-results/zulu8/zulu8.62.0.19-ca-jdk8u332_b09-linux_x64.tap.zip",
+          "aqavit_results_link": "https://raw.githubusercontent.com/sashapepin/azul-adoptium/main/aqa-test-results/zulu8/zulu8.62.0.19-ca-jdk8u332_b09-linux_x64.tap.zip",
           "tck_affidavit_link": "https://cdn.azul.com/zulu/pdf/cert.zulu8.62.0.19-ca-jdk8.0.332-linux_x64.tar.gz.pdf"
         }
       ],
